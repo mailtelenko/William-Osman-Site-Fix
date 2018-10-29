@@ -1,0 +1,142 @@
+/*
+William Osman website css update
+Liam Telenko
+Oct/28/2018
+*/
+
+/*
+===
+General
+===
+*/
+
+h1 {
+    color: white!important;
+}
+
+.magazine {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* 
+===
+Navbar 
+===
+*/
+
+.header-bar {
+    height: 100px!important;
+    background: url("header.jpg")!important;
+    background-size: 110%!important;
+    background-position: 0% 50%!important;
+    z-index: -2!important;
+}
+
+/* No link hovering */
+
+.title a:hover {
+    text-decoration: none!important;
+}
+
+.title h1 {
+    text-shadow: 0px 0px 5px rgba(0, 0, 0, .6)!important;
+}
+
+.title h3 {
+    color: rgb(221, 181, 0)!important;
+    text-shadow: 0px 0px 5px rgba(0, 0, 0, .6);
+}
+
+/* Search bar */
+
+#search {
+    border-radius: 100px!important;
+    padding-left: 20px!important;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .8)!important;
+}
+
+/* Sub heading */
+
+.header-drawer {
+    background-color: rgba(0, 0, 0, .7)!important;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0, .2);
+}
+
+.header-drawer * {
+    color: white!important;
+}
+
+.menu-item {
+    font-size: 16px!important;
+    margin-left: 10px;
+}
+
+.menu-item:hover {
+    background-color: rgba(223, 202, 14, .2);
+    box-shadow: 0px 0px 100px rgb(223, 202, 14);
+    text-decoration: none;
+}
+
+/* 
+===
+Feed
+===
+*/
+
+.hfeed {
+    margin: 0px!important;
+    padding: 0px!important;
+}
+
+.hfeed #content {
+    border: none!important;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+}
+
+/* Fold Elements */
+
+#fold .item {
+    width: 922px!important;
+    margin-bottom: 10px;
+}
+
+#fold .item .story {
+    width: 675px;
+}
+
+#fold .item h3 {
+    line-height: 45px;
+}
+
+#fold .item .summary {
+    font-size: 14px;
+    width: 100%;
+    line-height: 110px;
+    margin-left: 35px;
+}
+
+/*
+===
+Elements
+===
+*/
+
+.item:hover {
+    transition-duration: .2s!important;
+    transform: scale(1.01, 1.01);
+}
+
+/*
+===
+Attribution
+===
+*/
+
+#attribution-container{
+    padding: 0px;
+}
+
+.attribution{
+    background: rgba(216, 216, 216, 0.479)!important;
+}
