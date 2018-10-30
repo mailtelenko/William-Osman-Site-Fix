@@ -14,9 +14,9 @@ h1 {
     color: white!important;
 }
 
-.magazine {
-    background-size: cover;
-    background-attachment: fixed;
+.viewitem-background, .magazine {
+    background-size: cover!important;
+    background-attachment: fixed!important;
 }
 
 /* 
@@ -27,7 +27,7 @@ Navbar
 
 .header-bar {
     height: 100px!important;
-    background: url("header.jpg")!important;
+    background: url("https://github.com/mailtelenko/William-Osman-Site-Fix/blob/master/header.jpg?raw=true")!important;
     background-size: 110%!important;
     background-position: 0% 50%!important;
     z-index: -2!important;
@@ -89,7 +89,7 @@ Feed
     padding: 0px!important;
 }
 
-.hfeed #content {
+.hfeed #content, .viewitem-content {
     border: none!important;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
 }
@@ -133,10 +133,141 @@ Attribution
 ===
 */
 
-#attribution-container{
+#attribution-container {
     padding: 0px;
 }
 
-.attribution{
+.attribution {
     background: rgba(216, 216, 216, 0.479)!important;
+}
+
+/*
+===
+Info Pages
+===
+*/
+
+.viewitem-inner {
+    padding-top: 5px!important;
+}
+
+/* Change heading to be more heading-like */
+
+.article-header {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    padding-bottom: 13px;
+    margin-top: 15px;
+}
+
+.article-header h1 {
+    font-size: 25px!important;
+    font-weight: 400;
+}
+
+/* Reposition images to be aligned w/ text */
+
+.article-content img {
+    width: 400px!important;
+    float: right;
+    padding-left: 20px!important;
+    border-image: none!important;
+    margin-left: 30px!important;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+    z-index: 10;
+    background-color: white;
+}
+
+/* Align text to left */
+
+.article-content div {
+    text-align: left!important;
+}
+
+/* Format subheadings */
+
+.article-content h2 {
+    width: auto;
+    border-bottom-style: solid;
+    border-bottom-width: 2px!important;
+    margin-bottom: 20px!important;
+    margin-top: 0px!important;
+}
+
+/* Replace line br w/ margin */
+
+.article-content div br {
+    display: none;
+}
+
+.article-content div {
+    margin-bottom: 20px!important;
+}
+
+/* One off when subheading wrapped in div */
+
+.article-content div h2 {
+    margin-top: 20px!important;
+}
+
+/*
+===
+Article Overlay
+===
+*/
+
+/* Container */
+.overview-wrap{
+    border-radius: 0px!important;
+}
+
+.overview-inner {
+    border-radius: 0px!important;
+    background-color:white!important;
+}
+
+.overview-content, .overview-content .article{
+    background-color:white!important;
+    padding:20px;
+}
+
+/* Whitespace seperator */
+.overview-content .separator{
+    margin:0px!important;
+    text-align:center!important;
+}
+
+/* Header image */
+.overview-content .article-content img {
+    width: 750px!important;
+    padding-left: 20px!important;
+    padding-top:0px!important;
+    border-image: none!important;
+    margin-left: 30px!important;
+    margin-top:0px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+    z-index: 10;
+    background-color: white;
+}
+
+/* Other article image formating */
+.overview-content .article-content tbody img {
+    width: 400px!important;
+    padding:0px!important;
+    border-image: none!important;
+    margin-left: 0px!important;
+    margin-top:10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0);
+    z-index: 10;
+    background-color: white;
+}
+
+/* Subheading */
+.overview-content h2{
+    margin-top:20px!important;
+}
+
+/* Article footer spacing */
+.article-footer{
+    margin-top:20px;
 }
