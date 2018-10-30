@@ -19,5 +19,8 @@ Add one of the following lines of code at the end of the ```<head></head>``` sec
 <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/production/stylesheet/update.min.css">
 ```
 
+<img src="website_resources/article_head.png", width=800>
+
+
 ## Author
 - Liam Telenko
