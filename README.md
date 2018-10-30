@@ -14,7 +14,7 @@ Add one of the following lines of code at the end of the ```<head></head>``` sec
 <link rel="stylesheet" type="text/css" href="path/to/stylesheet/update.min.css">
 ```
 
-### Repo Hosted Stylesheet
+#### Repo Hosted Stylesheet
 ```
 <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/production/stylesheet/update.min.css">
 ```
