@@ -23,4 +23,4 @@ Add one of the following lines of code at the end of the ```<head></head>``` sec
 
 
 ## Author
-- Liam Telenko
+- Liam Telenko (https://github.com/mailtelenko)
