@@ -27,7 +27,7 @@ Navbar
 
 .header-bar {
     height: 100px!important;
-    background: url("https://github.com/mailtelenko/William-Osman-Site-Fix/blob/master/header.jpg?raw=true")!important;
+    background: url("https://github.com/mailtelenko/William-Osman-Site-Fix/blob/production/header.jpg?raw=true")!important;
     background-size: 110%!important;
     background-position: 0% 50%!important;
     z-index: -2!important;
