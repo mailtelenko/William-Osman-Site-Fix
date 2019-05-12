@@ -21,26 +21,26 @@ Add one of the following lines of code at the end of the ```<head></head>``` sec
 ## Pics or Didn't Happen
 
 #### Before
-![Screenshot of the current website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/documentation/images/before1.png "Current Website")
+![Screenshot of the current website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/before1.png "Current Website")
 
-![Screenshot of the current website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/documentation/images/before2.png "Current Website")
+![Screenshot of the current website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/before2.png "Current Website")
 
-![Screenshot of the current website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/documentation/images/before3.png "Current Website")
+![Screenshot of the current website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/before3.png "Current Website")
 
-![Screenshot of the current website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/documentation/images/before4.png "Current Website")
+![Screenshot of the current website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/before4.png "Current Website")
 
-![Screenshot of the current website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/documentation/images/before5.png "Current Website")
+![Screenshot of the current website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/before5.png "Current Website")
 
 #### After
-![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/documentation/images/after1.png "Updated Website")
+![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/after1.png "Updated Website")
 
-![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/documentation/images/after2.png "Updated Website")
+![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/after2.png "Updated Website")
 
-![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/documentation/images/after3.png "Updated Website")
+![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/after3.png "Updated Website")
 
-![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/documentation/images/after4.png "Updated Website")
+![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/after4.png "Updated Website")
 
-![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/documentation/images/after5.png "Updated Website")
+![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/after5.png "Updated Website")
 
 ## Author
 - Liam Telenko (https://github.com/mailtelenko)
