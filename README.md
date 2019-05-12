@@ -43,4 +43,4 @@ Add one of the following lines of code at the end of the ```<head></head>``` sec
 ![Screenshot of the updated website.](https://raw.githubusercontent.com/mailtelenko/William-Osman-Site-Fix/master/images/after5.png "Updated Website")
 
 ## Author
-- Liam Telenko (https://github.com/mailtelenko)
+- [Liam Telenko](https://github.com/mailtelenko)
